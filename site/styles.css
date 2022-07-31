@@ -1,0 +1,16 @@
+body{
+    background-color:darkgrey;
+    opacity: 80%;
+}
+h1 {
+    color: green;
+    text-align: center;
+    opacity: 60%;
+    
+}
+
+section ol {
+    color: rgb(238, 224, 69);
+    list-style: none;   
+
+}
