@@ -1,12 +1,14 @@
 body{
-    background-color:darkgrey;
-    opacity: 80%;
+    text-align: center;
+    background-color:#F768D3;
+    opacity: 100%;
+    font-size: 115%;
 }
 h1 {
-    color: green;
     text-align: center;
     opacity: 60%;
-    
+    background-color: antiquewhite;
+    ;
 }
 
 section ol {
