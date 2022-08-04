@@ -4,26 +4,46 @@ body{
     opacity: 100%;
     font-size: 115%;
 }
-h1 {
-    text-align: center;
+header {
+    block-size: 120px;
     opacity: 60%;
     background-color: antiquewhite;
-text-align: center;
 	text-transform: uppercase;
-	font-size: 22px;
-    ;
+	font-size: 22px;  
+}
+header h1 {
+padding-top: 40px; 
+}
+
+nav ul {
+    padding-top: 20px;
+    float: none;
+    block-size: 50px;
+}
+
+nav li {
+    display: inline-block;
+    padding-inline: 100px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    
+}
+nav ul li a:hover{
+    background-color:green ;
 }
 
 section ol {
     color: rgb(238, 224, 69);
     list-style: none;   
-
+    
 }
 img{
 	display: block;
 	width: 70%;
 	border: solid 2px #000000;
 	margin: 0 auto;
-	
+
 	
 }
